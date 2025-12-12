@@ -1,0 +1,13 @@
+name = "[Let's Do] BloomingNature"
+filename = "letsdo-bloomingnature-fabric-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Vno77MY/versions/7G6bkTka/letsdo-bloomingnature-fabric-1.1.3.jar"
+hash-format = "sha512"
+hash = "92a8d3b9a062eaa2caa860f2c316e29bb693725e8ec5ec4b590734cf707408e7169f86c0e7310ca05b952fb76e2e2a3f5eb6802f16a518f189a2bb36807ceece"
+
+[update]
+[update.modrinth]
+mod-id = "4Vno77MY"
+version = "7G6bkTka"
