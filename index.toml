@@ -258,6 +258,16 @@ hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "5bd82beaf0de0d073b618f57c0b7f2ae1bb34183f6003afcccba39275b5eb6d1"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "c12090d1aa1239085a4b3d790900823ad14a40eacbd8fa42d9626d22995a8a80"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "e74c6794943574a85ca7e02d5655a73f35c1646b46d080d9a3a862587019e968"
 metafile = true
