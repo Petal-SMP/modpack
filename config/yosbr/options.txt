@@ -3,8 +3,6 @@ darkMojangStudiosBackground:true
 joinedFirstServer:true
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","file/waystones_1.21.1.zip","file/Deep Grass.zip","file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip","file/Cobblemon Interface v1.6.0.zip","file/Cobblemon Interface Modded v1.9.4.zip"]
-incompatibleResourcePacks:["balm","camping","mr_dungeons_andtaverns","mr_dungeons_andtavernsdeserttemplereplacement","mr_dungeons_andtavernsendcastlestandalone","mr_dungeons_andtavernsjungletemplereplacement","mr_dungeons_andtavernsnetherfortressoverhaul","mr_dungeons_andtavernsoceanmonumentreplacement","mr_dungeons_andtavernswoodlandmansionreplacement","waystones","yet_another_config_lib_v3"]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none

@@ -58,7 +58,7 @@ hash = "8bfacb072b85270879556ae61d300927ca994ce0677aab404bbedd2273a5abe0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e0958e60ddfd635c7e7c0853263a1b5a9c5345f8082f4d2b112184c3b6b3a884"
+hash = "10c7375a43096856eb43684ee9d439caa16a69830c6e2de2a1fae1b427372764"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
