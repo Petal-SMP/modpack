@@ -458,11 +458,6 @@ hash = "6e454809d22c0967ace0a59408260da91ce80757d00eaa4720f0496fcd1fddd1"
 metafile = true
 
 [[files]]
-file = "mods/particle-snow.pw.toml"
-hash = "6411356857aa6c76fb67362ba1e1048b8d8a1f9873374051663e0e536756a6e0"
-metafile = true
-
-[[files]]
 file = "mods/particular.pw.toml"
 hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
@@ -584,12 +579,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
+hash = "745e9e9a29f81b00070fa39bc86c543d39b54e1e4786f8353bb51351f06667ad"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
+hash = "930c62a2d832d9b9dac1637a89265415007eba0033e84cbc1b9b80bd6f483554"
 metafile = true
 
 [[files]]
