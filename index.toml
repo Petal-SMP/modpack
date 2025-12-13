@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/petal-smp-tweaks.pw.toml"
-hash = "e0290f34500fea5eb492d03dac7f1db405e91fac7441972a2d0c8e7f82c65b97"
+hash = "c2018be56ee9cf8de23260a7061bdfb6f4a34c3489dc37a164ddd774d377864d"
 metafile = true
 
 [[files]]
