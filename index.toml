@@ -173,6 +173,11 @@ hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "76ab02862f59837b93cbfacfdfb722dfaf3fe5198db43ee884f61ad738a3f589"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
@@ -230,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d8cdb69801ff0ffdf8c9cf6834dd592ca79ce1da139d303f8d17a62afec1abe2"
 metafile = true
 
 [[files]]
