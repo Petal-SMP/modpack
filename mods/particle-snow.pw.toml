@@ -1,0 +1,13 @@
+name = "Particle Snow"
+filename = "particle-snow-1.21-1.21.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FrqaGUEX/versions/3daMIoPB/particle-snow-1.21-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "6df46d4dac9bc8e6d2020ea754050e835e9f9652681e5b2162a1c54722e8a50f24d4b8dac9609a4cb48c6ce74fbcf509039843597b4f97de9b466bcab625a64f"
+
+[update]
+[update.modrinth]
+mod-id = "FrqaGUEX"
+version = "3daMIoPB"

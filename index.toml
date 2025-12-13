@@ -68,6 +68,11 @@ hash = "bc649f0960b84625957f2f81b3db0ddbe0b0cca0efb3169d54382916c5f062ea"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
@@ -83,6 +88,21 @@ hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "0fef7a2e43b7c9ec1306a6750cc734214df1be9768a0d4ffaa011508fb706260"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
@@ -90,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
@@ -105,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
@@ -423,6 +453,16 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "6e454809d22c0967ace0a59408260da91ce80757d00eaa4720f0496fcd1fddd1"
+metafile = true
+
+[[files]]
+file = "mods/particle-snow.pw.toml"
+hash = "6411356857aa6c76fb67362ba1e1048b8d8a1f9873374051663e0e536756a6e0"
+metafile = true
+
+[[files]]
 file = "mods/particular.pw.toml"
 hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
@@ -453,6 +493,11 @@ hash = "2aabb44c8d1f765ba68c212df86d3615f0eb331354614ab935298cef63b79224"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "d5d1005d02c0838d0e89adf95223fe03a91d4c92937cc7eecd9425dc144fae80"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -460,6 +505,16 @@ metafile = true
 [[files]]
 file = "mods/retino.pw.toml"
 hash = "2527b48a0b8258a3c22dc02b2b0168bf85877ae390541ef5564295ac50c04543"
+metafile = true
+
+[[files]]
+file = "mods/satin-free-wakes.pw.toml"
+hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
