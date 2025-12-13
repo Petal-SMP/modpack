@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "1a3bdda64e5b9da2edd714da29bb681b65324cd31d7d26af6c1acfddc2b8cd2f"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -502,6 +506,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+metafile = true
+
+[[files]]
 file = "mods/retino.pw.toml"
 hash = "2527b48a0b8258a3c22dc02b2b0168bf85877ae390541ef5564295ac50c04543"
 metafile = true
@@ -629,6 +638,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/deep-grass.pw.toml"
 hash = "17c6889b9ce22eeeaf7965fda7310c1be7082348771852fede18d587c909b754"
+metafile = true
+
+[[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "7925ee20a72c3400d470b982fcd788808d25e5446b4d456afad03da484456874"
 metafile = true
 
 [[files]]
