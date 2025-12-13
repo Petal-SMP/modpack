@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e40ab1a8992d800199a6ac5a1a7411bae8141817f645c82c1fdc8c1381393f9e"
+hash = "fadf8fb6694b2db5d0e5420ebbebfca7674e377ecf44783264e8ab7cb6299a79"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/petal-smp-tweaks.pw.toml"
-hash = "da0a62e828649b655eea71f4a17735eaf76a5e9d46957ddd3ee27de8c1dfe6e2"
+hash = "c0ae1d2179880aa1db5badbff95e66c99edafbe6a0fb505a7848f7e136e18ea3"
 metafile = true
 
 [[files]]
