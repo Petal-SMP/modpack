@@ -17,6 +17,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/yosbr/config/betterclouds-v1.json"
+hash = "162eaef92e867e34205be6631cfc60dd767b5a7d60d805c443c06e8014373faa"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
