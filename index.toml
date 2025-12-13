@@ -5,6 +5,10 @@ file = "config/resourcepackoverrides.json"
 hash = "1a3bdda64e5b9da2edd714da29bb681b65324cd31d7d26af6c1acfddc2b8cd2f"
 
 [[files]]
+file = "config/xaerominimap_entities.json"
+hash = "82796939e0df5bd8745a164ec9603cb1a745bb43bc4f2270a0f08a291912f565"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
