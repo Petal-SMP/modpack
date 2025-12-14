@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "505b960f631559f0843b5d0d9cd35504c03cd54b02210d137503807c7dba66d0"
+hash = "2a193bb4969ee05dc2b771d394acee21c63de22a7e08e96fd464155cafbfa6ad"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/life-series-armor.pw.toml"
-hash = "2fdc4ee0d6e13f774015da1d3c43473e3d06ea999c3eaa4dbb3bb5c53e6b5503"
+hash = "52b97b375221dac135b619c9a46978b5b71cebcf9a9082231ac5880a984a3e8d"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@
   "schema_version": 2,
   "failed_reloads_per_session": 5,
   "default_packs": [
-    "file/§aLife§eSeries§cArmor §7v1.4.0 §8[1.21.3-1.21.10].zip",
+    "file/§6Limited§eArmor §7v1.3.0 §8[1.20-1.21.5].zip",
     "file/waystones_1.21.1.zip",
     "file/Deep Grass.zip",
     "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip",
@@ -15,7 +15,7 @@
   },
   "pack_overrides": {
     "1": [
-      "file/§aLife§eSeries§cArmor §7v1.4.0 §8[1.21.3-1.21.10].zip",
+      "file/§6Limited§eArmor §7v1.3.0 §8[1.20-1.21.5].zip",
       "file/waystones_1.21.1.zip",
       "file/Deep Grass.zip",
       "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip",
