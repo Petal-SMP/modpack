@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "0b3708c8205c73680a332381ebc2b50c92ffc7cda9dae20b49e10d14bb74bbdd"
+hash = "505b960f631559f0843b5d0d9cd35504c03cd54b02210d137503807c7dba66d0"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
