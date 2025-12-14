@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1a3bdda64e5b9da2edd714da29bb681b65324cd31d7d26af6c1acfddc2b8cd2f"
+hash = "0b3708c8205c73680a332381ebc2b50c92ffc7cda9dae20b49e10d14bb74bbdd"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -656,6 +656,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "f64002469dee1cadc9280a041f4c9df60dcb50422eb5f90fd11ec534f198517f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/life-series-armor.pw.toml"
+hash = "2fdc4ee0d6e13f774015da1d3c43473e3d06ea999c3eaa4dbb3bb5c53e6b5503"
 metafile = true
 
 [[files]]
