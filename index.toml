@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "24b4fc43d54d244013a069db547d7742c831ca252572f91a6a80541da1d6bfae"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedbackpacks.json"
+hash = "2654ba9faacf13c12ff5eb8db56a3d44eb3f9091138fd06845c4351b8bb2430e"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "ac661e70d8830bbd140432500b0859ecc29231fe8ffcae30159481420edb29ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/petal.macuguita.com/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "2a193bb4969ee05dc2b771d394acee21c63de22a7e08e96fd464155cafbfa6ad"
 
@@ -309,6 +329,11 @@ hash = "0a5b03c7ebac217b8f5dc6314039a7338fd786b63146621996632acd9d8dbc8e"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ee030c80fe88f8be296865929343e43e42cf98be26025248ce02bf90b9c4dfb8"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -404,6 +429,11 @@ hash = "c27c592b0c797f584048e31e12e7e85e804952e1eb0b40e7dec407c2c1fcf6d7"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "183d7866328971a71ef6948ef832afc4a43d6b807fdcafe682bc0265d5d651fa"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
@@ -480,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/petal-smp-tweaks.pw.toml"
-hash = "c8887e7f674164015388240edc3802939ab9fd78593052d602528c61e61c5360"
+hash = "a663a559bf07146a673181d40639417bace6420f9806fe2b26b9013254884421"
 metafile = true
 
 [[files]]

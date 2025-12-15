@@ -1,7 +1,7 @@
 name = "Petal SMP Tweaks"
-filename = "petal_tweaks-1.21.1-0.0.9.jar"
+filename = "petal_tweaks-1.21.1-0.0.10.jar"
 
 [download]
-url = "https://github.com/Petal-SMP/Petal-SMP-Tweaks/releases/download/0.0.9/petal_tweaks-1.21.1-0.0.9.jar"
+url = "https://github.com/Petal-SMP/Petal-SMP-Tweaks/releases/download/0.0.10/petal_tweaks-1.21.1-0.0.10.jar"
 hash-format = "sha256"
-hash = "aac3f4caa0ae8bbb95c5259e614073d6c59e4274fd5e5532da92086e5acb0528"
+hash = "1a477b06eca887293cd4462534620232f6f04049025174e01e7054398f50f8d8"
