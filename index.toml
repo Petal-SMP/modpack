@@ -524,6 +524,11 @@ hash = "2527b48a0b8258a3c22dc02b2b0168bf85877ae390541ef5564295ac50c04543"
 metafile = true
 
 [[files]]
+file = "mods/rsls.pw.toml"
+hash = "f7477856e8f6f9a4fb696acac6ab7f659b4918f753dc2aff3b6961f17385af85"
+metafile = true
+
+[[files]]
 file = "mods/satin-free-wakes.pw.toml"
 hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
 metafile = true
@@ -541,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/sitting+.pw.toml"
 hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
 
 [[files]]
@@ -610,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
+hash = "2d0ca6e5a2077ae624a65a5310f36ddd6736de699748ac3959022e03844e2f52"
 metafile = true
 
 [[files]]
