@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/petal-smp-tweaks.pw.toml"
-hash = "cc5d49225c3fadfa1a8559770d8295a30a17102099fc21aa145143f6f9f0df9f"
+hash = "e6b8f72fa08f781b210a99af2bcf0f2787147cb09313d9766a4aa12aa32cdea3"
 metafile = true
 
 [[files]]
@@ -621,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "e762f55d9065724d04f0e569570cfebfd1aa86c32dc0cd763b62326d0dfd0a9c"
 metafile = true
 
 [[files]]
