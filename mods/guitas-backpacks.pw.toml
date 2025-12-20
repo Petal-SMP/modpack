@@ -1,0 +1,13 @@
+name = "guita's Backpacks"
+filename = "gbackpacks-1.21.1-beta+4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MjD9CI06/versions/m0pgpsYA/gbackpacks-1.21.1-beta%2B4.jar"
+hash-format = "sha512"
+hash = "d66bee495608eefe28022fba0dbbec288004583cbedb167a59e8d975199555bea9ecb8e1b250a8d4e8649a8b5eb364f789deb441d6113a4973ff5d8183419f8b"
+
+[update]
+[update.modrinth]
+mod-id = "MjD9CI06"
+version = "m0pgpsYA"

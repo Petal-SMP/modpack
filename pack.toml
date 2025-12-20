@@ -1,0 +1,16 @@
+name = "Petal SMP Modpack"
+author = "macuguita"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "614d76138cfdb88a461aee2db00cb6731d8ee64c88cd4d9197457f1565f75ff1"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.21.1"
+
+[options]
+datapack-folder = "resources/datapack/required"
