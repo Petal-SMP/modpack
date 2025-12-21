@@ -236,6 +236,11 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "c4a85f34c45c2965f151d5f75cc7473fe9b30f4d46fc3fa6aa071eba28f6e3bb"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "d627d0fb3f5c037ccc75d6504749bc9beed6b73068f740f79ece59fa4748508e"
 metafile = true

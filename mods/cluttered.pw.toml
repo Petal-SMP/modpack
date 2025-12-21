@@ -1,0 +1,7 @@
+name = "Cluttered"
+filename = "Cluttered-3.0.2-1.21.1.jar"
+
+[download]
+url = "https://github.com/macuguita/Cluttered/releases/download/3.0.2/Cluttered-3.0.2-1.21.1.jar"
+hash-format = "sha256"
+hash = "77141521564e8690aacb91bd3ebb5c713140c2127e5b7fe3b03d926a816d4f7a"
