@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "24b4fc43d54d244013a069db547d7742c831ca252572f91a6a80541da1d6bfae"
+hash = "facf31a9ade02fdb70b8d5be44cc05d12087ebc42ca25b14578578ab6143437e"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "ac661e70d8830bbd140432500b0859ecc29231fe8ffcae30159481420edb29ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/petal.macuguita.com/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -19,6 +19,10 @@ hash = "6a060d3db4d1eae4a5357df04058c429e6155b1659dea70f8c896dbe095cf3b3"
 [[files]]
 file = "config/stackdeobf.json"
 hash = "64dc926769788fe632c071b6c40dca93653b5d6ed4def2a085a100f3dd3cd622"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "3476e609c8b53d6dad8cd2ff6380e1f3a3d46afa4d56f1b55c844bcf3f66b940"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -82,7 +86,7 @@ hash = "e9c780a3548faea77d7230f83a97497cf30ae5148d1855c632310f6fb69a5cec"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+hash = "786f832a586765c933b70dd47675608323a351bb7a958ef50de5dddf8d9b308e"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
