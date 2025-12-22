@@ -1,0 +1,7 @@
+name = "Unusual Furniture"
+filename = "unusual_furniture-1.1.2.jar"
+
+[download]
+url = "https://github.com/macuguita/Unusual-Furniture/releases/download/1.1.2/unusual_furniture-1.1.2.jar"
+hash-format = "sha256"
+hash = "478ed44f10a06a846ac1bc9dc0142e23e345bc75ed28163712d5b430bb21187b"

@@ -806,6 +806,11 @@ hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
 metafile = true
 
 [[files]]
+file = "mods/unusual-furniture.pw.toml"
+hash = "64b2d4ff822ffe6be58a8ff5fa05a8463d2201f814c6d023a4a7f88a4775cd91"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "e762f55d9065724d04f0e569570cfebfd1aa86c32dc0cd763b62326d0dfd0a9c"
 metafile = true
