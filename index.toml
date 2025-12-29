@@ -566,11 +566,6 @@ hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "e759d6cc162013fa507cabb0c9cecac6a74e1236f49c9c4623b768b0d5adcb87"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "6637274bf8c888d5f37ff81ab2b01e9d337b83be6c40f58a69684018700f96e6"
 metafile = true
@@ -632,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "39be6d2deb24772f6c0a84a5b267e2dd676c320ba6b0a73e8b143a11de73a321"
+hash = "1a972c780d301d6536dde994ae7cca6203253722dc95f4377ecc65127410897b"
 metafile = true
 
 [[files]]
@@ -803,11 +798,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "afce539f4b5192c6f1cc65de89964babe5167c22c0387f5bb5a1d4227671b754"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "ecfccbecbcd49d3cf878f4df49adc526c4185cc8d8d5c32e292dd43f95a17ab9"
 metafile = true
 
 [[files]]
