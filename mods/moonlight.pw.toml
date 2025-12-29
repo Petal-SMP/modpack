@@ -1,6 +1,7 @@
 name = "Moonlight Lib"
 filename = "moonlight-1.21-2.28.3-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/9M9Oclxa/moonlight-1.21-2.28.3-fabric.jar"

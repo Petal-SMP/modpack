@@ -1,0 +1,13 @@
+name = "Atmospheric Skies & Fog"
+filename = "Atmospheric Skies & Fog 1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bvge5vTj/versions/kGxk6mj0/Atmospheric%20Skies%20%26%20Fog%201.2.zip"
+hash-format = "sha512"
+hash = "16dd666d1d0284a36afc275ab462bb0983aa1690f4dfd6b2cb7df2465939970cda560984dbf86ce8f57ca4a1818178657fcdd0735f90e5b8ab508dc276388cad"
+
+[update]
+[update.modrinth]
+mod-id = "Bvge5vTj"
+version = "kGxk6mj0"

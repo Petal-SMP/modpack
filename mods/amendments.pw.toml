@@ -1,6 +1,7 @@
 name = "Amendments"
 filename = "amendments-1.21-2.0.8-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/6iTJugQR/versions/OHFHFVWm/amendments-1.21-2.0.8-fabric.jar"
