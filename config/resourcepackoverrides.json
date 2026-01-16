@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/§6Limited§eArmor §7v1.3.0 §8[1.20-1.21.5].zip",
+    "file/waystones_1.21.1.zip",
+    "file/Comforts Modernized - V1.1.zip",
+    "file/Deep Grass.zip",
+    "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip",
+    "file/Cobblemon Interface v1.6.0.zip",
+    "file/Cobblemon Interface Modded v1.9.4.zip",
+    "file/E19 Cobblemon Minimap Icons.zip",
+    "file/Chat Reporting Helper.zip",
+    "file/SodiumTranslations.zip",
+    "file/SwapBallsReborn 1.2.zip",
+    "file/ATM x MSD [3.1.2].zip",
+    "file/! §9FA_§aFLOWERS§0.zip",
+    "file/Better-Leaves-9.4.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "file/§6Limited§eArmor §7v1.3.0 §8[1.20-1.21.5].zip",
+      "file/waystones_1.21.1.zip",
+      "file/Comforts Modernized - V1.1.zip",
+      "file/Deep Grass.zip",
+      "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip",
+      "file/Cobblemon Interface v1.6.0.zip",
+      "file/Cobblemon Interface Modded v1.9.4.zip",
+      "file/E19 Cobblemon Minimap Icons.zip",
+      "file/Chat Reporting Helper.zip",
+      "file/SodiumTranslations.zip",
+      "file/SwapBallsReborn 1.2.zip",
+      "file/ATM x MSD [3.1.2].zip",
+      "file/! §9FA_§aFLOWERS§0.zip",
+      "file/Better-Leaves-9.4.zip"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": true
+    }
+  }
+}

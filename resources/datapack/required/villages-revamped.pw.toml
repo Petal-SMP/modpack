@@ -1,0 +1,13 @@
+name = "Villages Revamped"
+filename = "Villages revamped 1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qtOzkQyw/versions/Fh9wgpuq/Villages%20revamped%201.21.zip"
+hash-format = "sha512"
+hash = "89d3471902d866a72cfe49ae98ad087afe50a868789eb3976934b5ccaec05a395d92705d3375e757fc70718ce82c3d18a0ee532393faf07ecf944e419b75483f"
+
+[update]
+[update.modrinth]
+mod-id = "qtOzkQyw"
+version = "Fh9wgpuq"

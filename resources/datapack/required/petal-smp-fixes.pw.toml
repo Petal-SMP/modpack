@@ -1,0 +1,8 @@
+name = "Petal SMP Fixes"
+filename = "Petal-SMP.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Petal-SMP/Petal-SMP-Fixes/releases/download/0.0.1/Petal-SMP.zip"
+hash-format = "sha256"
+hash = "0f639333ec847aa0d2d4b13993173ae3be2360df139fe57a8def5d294333d601"
