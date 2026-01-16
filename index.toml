@@ -151,6 +151,11 @@ hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
 metafile = true
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "41440aa391c6fb6ba275a47a78c4353fb5a2e4a76b2cd8d91e7751c7507a2637"
+hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
 metafile = true
 
 [[files]]
@@ -397,12 +402,12 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "7b65b2c82aabb6fe1b97b1f6aa29f870c5dfcbee514ae8a2e5520164ce9f8861"
+hash = "69d52a08ffc760f995c7a3104ece4f931c20d4866d08d2c739e514c3eff7a9c8"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "53c50190307a3b206fc1a363197d713bc98f5bb8bc391f7f9827132e629643d3"
+hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
 metafile = true
 
 [[files]]
@@ -446,6 +451,11 @@ hash = "2aa483960df75b01d3a1e08fcce318e53da714d26b0109463721f8eb6c7e062b"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
@@ -457,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "788b10db97a8c2e1fdca7a4450fd0aac96c9e6b7fe29fccc13bcf4487964e16d"
+hash = "93a9d609533082c74458d94232b4883d0b77d88176c98a3824e2a5acb1a92d85"
 metafile = true
 
 [[files]]
@@ -487,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c816127b8e0dc651799a8068ea69f0f27434741701b02f86e4ab72277c54230c"
+hash = "73c8968e0a12b2303c59f0991290fd0d6d7ac0566299314200beed9777f0fdc8"
 metafile = true
 
 [[files]]
@@ -527,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "39be6d2deb24772f6c0a84a5b267e2dd676c320ba6b0a73e8b143a11de73a321"
+hash = "9e988b2a476b467a6eba0674ada7d7a78dc47e9678ac71655b05237dc4f38a56"
 metafile = true
 
 [[files]]
@@ -543,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/particular.pw.toml"
 hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
+metafile = true
+
+[[files]]
+file = "mods/petal-smp-fixes.pw.toml"
+hash = "0eab7ddb95da0fa2e289dcf59d41b5ed16f8148b51bda69c552b2956a7ded5e8"
 metafile = true
 
 [[files]]

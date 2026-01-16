@@ -1,0 +1,7 @@
+name = "Petal SMP Fixes"
+filename = "petal_tweaks-1.21.1-0.0.14.jar"
+
+[download]
+url = "https://github.com/Petal-SMP/Petal-SMP-Tweaks/releases/download/0.0.14/petal_tweaks-1.21.1-0.0.14.jar"
+hash-format = "sha256"
+hash = "84bf40e84223b93411bfc8a40f3a1dc562be3bf830f27023e4353f50c1628679"
