@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "9e26417f1c9612886d58cd8ede0e618a5adb6b85fc52d2f2ee38d289e2fd7a5b"
+hash = "59ca25dd84ec3d3786c286b22c5ecf7f0a98785681fc6d5d9f346d581b01bdab"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "54f06204b9f8b975c8c3a2a0089144c1b75d9f3ebb7d388955264d01aef0950f"
+hash = "93a9d609533082c74458d94232b4883d0b77d88176c98a3824e2a5acb1a92d85"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "0a027b103da4dad97a93cab263d9a7fa5a696367e106db6ef13c6b7dd52b386b"
+hash = "b6f97d716d2b79a782b58ff137402da594489955407c41fd1c59a02c40d4c55b"
 metafile = true
 
 [[files]]
