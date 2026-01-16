@@ -316,6 +316,11 @@ hash = "7c9d9ae612abbb7593b3d5b8306442b87c381fa38efbef2fcbf17e8669552cdc"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "40be4ad7e0404bff407c28d93f9d5ae70cbf5c610c0e7693650640a3ae8354fa"
 metafile = true
@@ -428,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
 metafile = true
 
 [[files]]
